@@ -1,0 +1,45 @@
+
+# ==========================================
+# LBP Opioid Prediction - Git Ignore
+# ==========================================
+
+# 1. MIMIC data and local query results
+results/
+data/
+*.parquet
+*.feather
+*.db
+*.sqlite
+*.sqlite3
+
+# 2. Credentials and local environment
+.env
+.env.*
+!.env.example
+credentials/
+secrets/
+*service-account*.json
+*credentials*.json
+*.key
+*.pem
+
+# 3. Python cache and environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# 4. macOS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# 5. Temporary files
+*.tmp
+*.log
+*.bak
+*~
