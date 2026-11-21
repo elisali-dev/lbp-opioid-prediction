@@ -168,25 +168,31 @@ Relevant data sources include:
 
 ### 6.2 Primary Cohort — C1 Strict LBP
 
-C1 will be defined using the previously developed P2 ICD phenotype codebook.
+The primary study cohort (C1) will be identified using a literature-informed, rule-based ICD phenotyping approach.
 
-It includes five candidate ICD-9/10 codes representing core LBP and LBP with sciatica.
+The phenotype will focus on diagnosis codes explicitly representing low back pain or lumbago, including low back pain with sciatica. Candidate codes will be identified from the MIMIC-IV-ED diagnosis inventory and reviewed against ICD terminology, prespecified clinical inclusion rules, and relevant literature.
 
-The preliminary feasibility query identified:
+The proposed C1 definition contains five ICD-9/10 codes, subject to final verification during phenotype codebook construction.
 
-- 9,576 unique ED encounters.
-- 7,947 unique patients.
-- 8,118 encounters with at least one Pyxis record (84.77%).
+Code inclusion decisions will be documented with clinical rationale and supporting references. The resulting versioned codebook will provide the operational definition used for encounter-level cohort identification.
 
-These are preliminary, pre-age-filter counts. Any Pyxis record is not equivalent to an opioid-positive encounter.
+C1 represents a relatively narrow, ICD-defined LBP population. It does not establish clinically confirmed nonspecific low back pain, and the absence of additional underlying conditions cannot be assumed from symptom codes alone.
+
+Final adult eligibility, unique encounter counts, and patient counts will be confirmed during encounter-level cohort integration.
 
 ### 6.3 Sensitivity Cohort — C2 Expanded LBP
 
-C2 contains the C1 codes together with additional sciatica-only and expanded back pain symptom codes, producing a 12-code candidate definition.
+The sensitivity cohort (C2) will use a broader ICD-based phenotype to evaluate how operational case definitions influence study population characteristics, documented opioid dispensing prevalence, and predictive model performance.
 
-C1 is nested within C2.
+C2 will include all C1 codes, together with additional symptom codes representing sciatica without explicit low back pain and broader or anatomically less specific back pain presentations.
 
-The analysis will separately identify encounters added by the expanded definition (`C2-only`) to help explain changes in cohort composition.
+The proposed C2 definition contains twelve ICD-9/10 codes, including the five C1 codes, subject to final code-level review.
+
+The same literature-informed, rule-based selection process will be applied to both cohorts. Inclusion and exclusion decisions will be documented in a versioned phenotype codebook, with explicit verification that C1 is nested within C2.
+
+Encounters identified exclusively through the expanded definition (`C2-only`) will be distinguished from C1 encounters to characterize the additional population captured by the broader phenotype.
+
+C2 is intended as a sensitivity analysis of cohort definition, not as a more clinically accurate or independently validated LBP phenotype. Differences between C1 and C2 will be interpreted in the context of cohort composition and operational coding definitions rather than as evidence of causal effects.
 
 ### 6.4 Eligibility and Exclusions
 
