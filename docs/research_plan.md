@@ -31,7 +31,7 @@ Opioid treatment is an important topic in LBP management. Clinical guidelines em
 
 Emergency department data provide an opportunity to study documented treatment patterns using routinely collected information. However, retrospective EHR research introduces two related challenges: identifying an appropriate patient population and accurately defining the treatment outcome.
 
-This project builds on earlier coursework involving LBP cohort identification and predictive modeling. Rather than relying on a small set of ICD codes without further examination, the present study develops a more systematic and transparent clinical phenotype definition and evaluates its implications for machine learning.
+This study uses a transparent, literature-informed ICD phenotyping workflow to define the analytical population and examine how operational cohort definitions affect downstream predictive modeling. Rather than relying on a small set of ICD codes without further examination, the present study develops a more systematic and transparent clinical phenotype definition and evaluates its implications for machine learning.
 
 ## 3. Problem Definition
 
@@ -257,22 +257,31 @@ Candidate structured variables include:
 - Pain score.
 - Heart rate, blood pressure, respiratory rate, temperature, and oxygen saturation.
 
-Chief complaint information will be incorporated using previously developed P3 features.
+Chief complaint text will be used as an additional triage-time information source. Text normalization and lightweight clinical concept rules will be developed separately from the predictive models.
 
-Post-triage information such as final ICD diagnosis, ED disposition, encounter duration, and medication dispensing events will not be used as predictors.
+Post-triage information, including final ICD diagnoses, ED disposition, encounter duration, and medication dispensing events, will not be used as predictors.
 
 ### 8.2 Clinical Text Feature Engineering
 
-P3 has already generated a normalized chief complaint field and rule-based phenotype indicators.
+Chief complaint text will be incorporated using two complementary feature representation approaches.
 
-The project will investigate the added value of short clinical text through:
+**Rule-Based Clinical Features (P3)**
 
-- Existing P3 rule-based phenotype features.
-- TF-IDF with TruncatedSVD for a compact text representation, if feasible.
+A lightweight, deterministic text-processing approach will normalize chief complaint expressions and identify selected clinical concepts, such as explicit low back pain, sciatica, and broader back pain presentations.
 
-Text representation will be fit exclusively on training data.
+These rules will be developed from clinical terminology and the language of chief complaints, without using final ICD diagnoses or opioid dispensing outcomes as classification inputs.
 
-No new clinical text annotation or transformer fine-tuning is planned.
+A focused rule audit will examine coverage, ambiguous expressions, and potential false matches. The resulting indicators will be treated as predictive features rather than clinically validated phenotypes.
+
+**Statistical Text Representation (P6)**
+
+TF-IDF will be used to represent lexical information contained in short chief complaint text. TruncatedSVD may be applied to generate a compact representation suitable for integration with structured features.
+
+The TF-IDF vocabulary, inverse document frequency weights, and any SVD transformation will be fitted exclusively on training data after patient-level partitioning.
+
+The incremental predictive value of these representations will be evaluated against the structured-feature baseline.
+
+No transformer fine-tuning, comprehensive clinical NLP pipeline, or independent clinical text annotation study is planned.
 
 ### 8.3 Models
 
@@ -288,16 +297,25 @@ Coefficient-based interpretations will not be treated as causal effects. Formal 
 
 ### 8.4 Primary Experiments
 
+### 8.4 Primary Experiments
+
 | ID | Cohort | Features | Model |
 |---|---|---|---|
-| E1 | C1 | Structured only | Logistic Regression |
+| E1 | C1 | Structured only | L2 Logistic Regression |
 | E2 | C1 | Structured only | LightGBM |
-| E3 | C1 | Structured + chief complaint features | LightGBM |
+| E3a | C1 | Structured + rule-based chief complaint features | LightGBM |
+| E3b | C1 | Structured + TF-IDF/SVD text features | LightGBM |
 | E4 | C2 | Structured only | LightGBM |
 
-E1–E3 constitute the primary modeling analysis.
+E1 and E2 establish structured-feature predictive baselines.
 
-E4 is a limited case-definition sensitivity experiment using the same modeling specification as E2.
+E3a and E3b examine the incremental predictive value of two alternative chief complaint representations relative to E2. They will use the same C1 population, patient-level data partition, and evaluation framework.
+
+E4 is the prespecified phenotype sensitivity experiment, applying the same structured LightGBM modeling approach as E2 to the expanded C2 cohort.
+
+The primary analysis will prioritize E1, E2, E3a, and E4. E3b is a bounded NLP extension that will be completed if the core modeling pipeline is established successfully.
+
+The project will not conduct extensive NLP architecture searches or repeat all text experiments in C2.
 
 ### 8.5 Data Partitioning and Leakage Prevention
 
@@ -310,6 +328,10 @@ Model selection and feature preprocessing will occur using training data only.
 The held-out test set will be reserved for final evaluation.
 
 Because final ICD-defined cohort membership is not known at triage, findings will be interpreted as retrospective conditional prediction rather than prospective ED deployment performance.
+
+Deterministic, prespecified chief complaint normalization and clinical concept rules may be applied independently of model fitting. Any preprocessing parameters learned from the data, including TF-IDF vocabulary and IDF weights, SVD components, imputation statistics, and categorical encodings, will be fitted using training data only.
+
+Chief complaint rules will not be optimized using held-out test outcomes or retrospectively adjusted to maximize agreement with final ICD diagnoses.
 
 ### 8.6 Evaluation Metrics
 
@@ -475,8 +497,8 @@ The following will not be included in the current course submission:
 | Phase | Objective | Completion Criterion |
 |---|---|---|
 | P1 — Data EDA | Understand source tables and data quality | Completed |
-| P2 — ICD Phenotyping | Establish reproducible case definitions | Provisional codebook available |
-| P3 — Chief Complaint | Extract clinical text phenotypes | V2 output available |
+| P2 — ICD Phenotyping | Construct reproducible C1/C2 definitions | Versioned codebook with documented evidence review|
+| P3 — Chief Complaint | Develop lightweight deterministic clinical text features | Reusable rules, focused audit, and P6 feature specification |
 | P4 — Cohort Integration | Build C1 and C2 encounter-level datasets | Unique stays, documented eligibility |
 | P5 — Opioid Outcome | Create and validate binary dispensing outcome | Reviewed mapping and event counts |
 | P6 — ML Modeling | Train and evaluate primary models | Held-out performance results |
