@@ -1,0 +1,1035 @@
+pyxis_name,pyxis_gsn,record_count,screening_method,candidate_ingredients,evidence_rxcuis,evidence_type,proposed_opioid,review_status,is_cumulus_opioid,mapping_scope
+Diazepam,003768,2494,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oxycodone-Acetaminophen,004222,2215,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+HYDROmorphone (Dilaudid),062823,2146,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Acetaminophen,004490,2017,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen 500mg TAB,004490,1868,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketorolac,039500,1671,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE (Immediate Rel 5mg TAB,004225,1496,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE (Immediate Release),004225,1476,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Morphine,004080,1308,direct_cumulus,['morphine'],['7052'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Ibuprofen,008349,1182,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine Sulfat 4mg/1mL 1mL VIAL,074851,1131,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Lidocaine 5% Patch 1PTCH PTCH,043256,1093,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketorolac 30mg/1mL 1mL VIAL,039500,915,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam 5mg TAB,003768,838,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HYDROmorphone (D 1mg/1mL 1mL SYR,062823,826,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Lidocaine 5% Patch,043256,796,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ondansetron,015869,788,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ondansetron,061716,788,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ibuprofen,008348,693,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ibuprofen 600mg TAB,008349,663,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen,004489,641,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine Sulfate,004072,512,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Morphine Sulfate,070024,512,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Acetaminophen 325mg TAB,004489,506,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam,003755,463,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam,003753,463,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam,078733,463,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Gabapentin,021414,384,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ibuprofen 400mg TAB,008348,380,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Gabapentin 300mg CAP,021414,376,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine Sulfate,074851,375,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Ondansetron 4mg/2mL 2mL VIAL,061716,357,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ondansetron 4mg/2mL 2mL VIAL,015869,357,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketorolac 15mg/1mL 1mL VIAL,039499,340,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketorolac 15mg/1mL 1mL VIAL,023190,340,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HYDROmorphone (Dilaudid),004110,335,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxycoDONE (Immediate Release),004225,331,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Morphine Sulfate,078456,310,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Cyclobenzaprine,004681,305,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam 2mg/1mL 1mL SYR,003755,285,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam 2mg/1mL 1mL SYR,003753,285,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam 2mg/1mL 1mL SYR,078733,285,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oxycodone-Acetaminophen 1TAB TAB,004222,256,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Diazepam 10mg TAB,003766,251,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ondansetron ODT,041562,239,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HYDROmorphone (Dilaudid),078729,234,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+TraMADOL (Ultram),023139,217,ingredient_candidate,['tramadol'],['10689'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Gabapentin 100mg CAP,021413,206,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Gabapentin,021413,191,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin,004380,189,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TraMADol (Ultram) 50mg TAB,023139,182,ingredient_candidate,['tramadol'],['10689'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Ketorolac,039499,181,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketorolac,023190,181,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Omeprazole,033530,178,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam,003758,172,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin 81mg TAB,004380,163,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrocodone-Acetaminophen,004204,158,ingredient_candidate,['hydrocodone'],['5489'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Diazepam,003766,156,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cyclobenzaprine 10mg TAB,004681,151,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TraMADol (Ultram),023139,146,ingredient_candidate,['tramadol'],['10689'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Docusate Sodium,003009,143,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Omeprazole 20mg CAP,033530,140,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vancomycin,043952,134,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vancomycin,009329,134,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam 1mg TAB,003758,120,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Docusate Sodium 100mg CAP,003009,113,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HYDROmorphone (Dilaudid) 2mg TAB,004110,112,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Ondansetron ODT 4mg TAB,041562,109,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Succinate 25mg XL TAB,047586,104,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Albuterol 0.083% Neb Soln,005039,100,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam,078733,99,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam,003755,99,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam,003753,99,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Succinate XL,047586,97,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lisinopril,000391,94,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl Citrate,041385,93,direct_cumulus,['fentanyl'],"['142436', '4337']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Fentanyl Citrate,041384,93,direct_cumulus,['fentanyl'],"['142436', '4337']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+PredniSONE,006749,92,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrochlorothiazide,008182,87,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrochlorothiazide,029832,87,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol,016796,84,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrocodone-Acetamin(5mg-325mg),047430,83,ingredient_candidate,['hydrocodone'],['5489'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+AmLODIPine 5mg TAB,016926,81,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aluminum-Magnesium Hydrox.-Simet,002701,80,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aluminum-Magnesium Hydrox.-Simet,002716,80,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ipratropium Bromide Neb,021700,79,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pantoprazole 40mg TAB,027462,79,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride,001275,79,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride,001248,79,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol,065888,79,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HYDROmorphone (Dilaudid),004103,77,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Aspirin,004376,74,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levothyroxine Sodium 25mcg TAB,006648,74,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetFORMIN (Glucophage),013318,74,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DiphenhydrAMINE,011590,72,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lisinopril,000393,72,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam,003763,71,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam,003762,71,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levothyroxine Sodium,006648,71,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitrofurantoin Monohy (MacroBID),016598,71,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Viscous 2%,003411,70,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl,041385,69,direct_cumulus,['fentanyl'],['4337'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Amlodipine,016926,67,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam,003767,67,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lisinopril 20mg TAB,000391,67,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Baclofen 10mg TAB,004679,66,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam 10mg/2mL 2mL SYR,003762,66,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam 10mg/2mL 2mL SYR,003763,66,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Losartan Potassium,023381,66,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tizanidine 2mg TAB,027447,66,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 1gm/100mL 100mL Bag,,65,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DiphenhydrAMINE,011582,65,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2% (Urojet),038861,65,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2% (Urojet),003407,65,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ClonazePAM 1mg TAB,004561,63,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PredniSONE,006751,63,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ClonazePAM,004561,62,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Senna,019964,62,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HYDROmorphone (i 1mg/1mL 1mL SYR,004102,60,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Lisinopril 5mg TAB,000393,60,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Losartan Potassium 25mg TAB,023381,60,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Baclofen,004679,59,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoclopramide,005229,59,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone (Mini Bag Plus),,58,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrochlorothiazide 25mg TAB,008182,58,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrochlorothiazide 25mg TAB,029832,58,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tizanidine,027447,58,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dexamethasone Sod Phosphate,062053,57,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dexamethasone Sod Phosphate,006776,57,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Donnatol (Elixir),004773,57,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sodium Chloride 0.9%  (Mini Bag Plus),001210,57,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vancomyci 1000mg/200mL 200mL BAG,043952,57,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vancomyci 1000mg/200mL 200mL BAG,009329,57,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Albuterol 0.083% Neb Soln 1Neb,005039,54,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine SR (MS Contin),011887,54,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Aluminum-Magnesium Hy 30mL UDCUP,002701,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aluminum-Magnesium Hy 30mL UDCUP,002716,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin,009510,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin,009511,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin,022479,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DiphenhydrAMIN 50mg/1mL 1mL VIAL,011590,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride 10mEq TAB,001275,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride 10mEq TAB,001248,53,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl,048287,52,direct_cumulus,['fentanyl'],['4337'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Levothyroxine Sodium,006651,52,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sertraline,046228,52,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Simvastatin,016577,52,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DiphenhydrAMINE 25mg CAP,011582,50,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam,003758,50,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tartrate,050631,50,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Naproxen,008360,50,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pantoprazole,027462,50,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl 100mcg/2mL 2mL AMP,041384,49,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl 100mcg/2mL 2mL AMP,041385,49,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Morphine (Immediate Release),004091,49,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTI 10mg TAB,024504,49,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTI 10mg TAB,072862,49,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Levothyroxine Sodium 100mcg TAB,006651,48,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sulfameth/Trimeth DS,009395,47,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sulfameth/Trimeth DS,009396,47,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetamin 1000mg/100mL 100mL Vial,066887,46,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atorvastatin,029968,46,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrocodone-Acetamin(5m 1TAB TAB,047430,46,ingredient_candidate,['hydrocodone'],['5489'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Senna 8.6mg TAB,019964,46,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Carbidopa-Levodopa (25- 1TAB TAB,002538,43,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Furosemide,008208,43,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone,009162,42,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone,059424,42,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ipratropium Bromide Neb 1Neb,021700,42,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Viscous 2% 15mL UDCUP,003411,42,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PredniSONE 20mg TAB,006751,42,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PredniSONE 20mg TAB,006749,42,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tartrate 25mg TAB,050631,41,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sertraline 50mg TAB,046228,41,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeftriaXONE,059424,40,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeftriaXONE,009156,40,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Furosemide,008209,40,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitrofurantoin Monohy 100mg CAP,016598,40,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE (Immediate Re 15mg TAB,046474,40,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Furosemide 20mg TAB,008208,38,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Insulin Human Regular,001723,37,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LamoTRIgine 100mg TAB,017871,37,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pregabalin 75mg CAP,057801,37,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tamsulosin,027546,37,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam 2mg TAB,003767,36,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol 1000mg/100mL 100mL VIAL,016796,36,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol 1000mg/100mL 100mL VIAL,065888,36,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Simvastatin 10mg TAB,016577,36,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-DiphTox-Acellular Pertuss,063698,36,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+AmLODIPine,016926,35,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin (Chewable),004380,35,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Labetalol,005098,35,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoclopramide 10mg/2mL 2mL VIAL,005229,35,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ranitidine,011673,35,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-DiphTox-Acellular Pertuss,059079,35,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen w/Codeine,004165,34,keyword_candidate,['codeine'],['2670'],keyword_screening,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+CeftriaXONE (Mini Bag Plus),,34,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetFORMIN (Glucophage) 500mg TAB,013318,34,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tartrate,005132,34,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ranitidine 150mg TAB,011673,34,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TraZODone 50mg TAB,046241,34,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromycin,016630,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromycin,026721,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Citalopram Hydrobromide 20mg TAB,046203,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DULoxetine 30mg DR CAP,057892,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FLUoxetine 20mg CAP,046214,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pregabalin,057799,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TraZODone,046241,33,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atorvastatin 20mg TAB,029968,32,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CARVedilol 12.5mg TAB,022233,32,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Furosemide 40mg TAB,008209,32,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pregabalin,057801,32,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-DiphTox-Acellular Pertuss,059080,32,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 1gm VIAL,009162,31,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 1gm VIAL,059424,31,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin 500mg TAB,009510,31,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin 500mg TAB,022479,31,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin 500mg TAB,009511,31,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Citalopram Hydrobromide,046203,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dextrose 50%,001989,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Donnatol (Elixir) 5mL Oral Sy,004773,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl 2.5mg 50mL Bag,048287,30,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl 2.5mg 50mL Bag,041385,30,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Lidocaine 1%,003404,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Readi-Cat 2  (Barium Sul 2%)*,,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sulfameth/Trimeth DS 1TAB TAB,009396,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sulfameth/Trimeth DS 1TAB TAB,009395,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Torsemide 20mg TAB,021408,30,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atenolol,015864,29,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin IV,015921,29,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulf 2gm/50mL 50mL BAG,063340,29,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Spironolactone 25mg TAB,006817,29,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atorvastatin 40mg TAB,029969,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dexamethasone 10mg/1mL 1mL VIAL,062053,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dexamethasone 10mg/1mL 1mL VIAL,006776,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FoLIC Acid,002366,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol 5mg/1mL 1mL VIAL,003970,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol 5mg/1mL 1mL VIAL,003968,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam,003780,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Naproxen 250mg TAB,008360,28,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE SR  (OxyconTIN),072862,28,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyconTIN),024504,28,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Acetaminophen-Caff-Butalbital,004450,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen-Caff-Butalbital,004451,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atenolol,005139,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Famotidine (PO) 20mg TAB,011677,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FoLIC Acid 1mg TAB,002366,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Multivitamins 1TAB TAB,002532,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Multivitamins 1TAB TAB,002524,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Multivitamins 1TAB TAB,002475,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OLANZapine 5mg TAB,027961,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE (Immediate Release),046474,27,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Polyethylene Glycol 17g PKT,034313,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Polyethylene Glycol 17g PKT,041843,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-DiphTox-Acellular Pertuss,063901,27,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromycin 250mg TAB,026721,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromycin 250mg TAB,016630,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol,003970,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol,003968,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Insulin HumaLOG,027413,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Multivitamins,002524,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Multivitamins,002532,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Multivitamins,002475,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-DiphTox-Acell 0.5mL VIAL,059079,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-DiphTox-Acell 0.5mL VIAL,063698,26,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin,009509,25,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+GlipiZIDE,001777,25,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ipratropium-Albuterol Neb,048018,25,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Methadone,004240,25,direct_cumulus,['methadone'],['6813'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Morphine (Immediate Release),011887,25,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Thiamine,002451,25,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Thiamine,016981,25,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cefpodoxime Proxetil,016931,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CloNIDine 0.1mg TAB,000346,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dexamethasone,006789,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Famotidine (PO),011677,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Sodium,006549,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine SR (MS Contin) 15mg TAB,011887,24,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Nicotine Patch,016427,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Polyethylene Glycol,041843,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Polyethylene Glycol,034313,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PredniSONE,006753,24,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Liquid),065758,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Liquid),023196,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Liquid),004481,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Allopurinol,002535,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 1gm/50mL 50mL BAG,059424,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 1gm/50mL 50mL BAG,009156,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem Extended-Release,024536,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Methadone 10mg TAB,004240,23,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxybutynin,004929,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tamsulosin 0.4mg CAP,027546,23,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Carbonate,002689,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Carbonate,001340,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Carbidopa-Levodopa (25-100),002538,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fluticasone Propionate 110mcg,021251,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Sodium,060301,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Sodium,006522,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam 0.5mg TAB,003757,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PredniSONE 10mg TAB,006749,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Spironolactone,006817,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Thiamine 100mg TAB,002451,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Thiamine 100mg TAB,016981,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Valsartan,050805,22,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Alprazolam,003773,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atenolol 25mg TAB,015864,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atorvastatin,029969,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxa 400mg/200mL 200mL BAG,015921,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ClonazePAM,004560,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clopidogrel,038164,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clopidogrel 75mg TAB,038164,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem Extended-Release,017205,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Divalproex (DELayed Re 250mg TAB,004539,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LevETIRAcetam 500mg TAB,044633,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam,003779,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE Liquid,004224,21,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Pregabalin 25mg CAP,057799,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Warfarin 2mg TAB,006561,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Zolpidem Tartrate,019187,21,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Insulin Glargine,047780,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lactulose,068217,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lactulose,029054,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lactulose,003067,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam,051279,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglycerin SL,000475,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacilli 4.5g/100mL 100mL BAG,040819,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacilli 4.5g/100mL 100mL BAG,021187,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride (Powder),001262,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PredniSONE 5mg TAB,006753,20,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen-Caff-Buta 1TAB TAB,004450,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen-Caff-Buta 1TAB TAB,004451,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Benzonatate,004641,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CARVedilol,022233,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dexamethasone 4mg TAB,006789,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine (Immediate Rel 15mg TAB,004091,19,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Morphine Sulfate,070023,19,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Morphine Sulfate,004070,19,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+OXcarbazepine 150mg TAB,044336,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OXcarbazepine 150mg TAB,027779,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+QUEtiapine Fumarate,034187,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Readi-Cat 2  (Barium Sul 2%),077720,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Readi-Cat 2  (Barium Sul 2%),019661,19,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Allopurinol 100mg TAB,002535,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem,000574,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Flush (10 Units/mL),060304,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lactulose 30mL UDCUP,068217,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lactulose 30mL UDCUP,029054,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lactulose 30mL UDCUP,003067,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoclopramide 10mg TAB,005231,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tartrate 50mg TAB,005132,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OLANZapine (Disintegrati 5mg TAB,045190,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxycoDONE (Immediate Release),046474,18,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Potassium Chloride (Po 20mEq PKT,001262,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+QUEtiapine Fumarate 100mg TAB,034188,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+QUEtiapine Fumarate 25mg TAB,034187,18,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin 325mg TAB,004376,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atenolol 50mg TAB,005139,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cefpodoxime Proxetil 100mg TAB,016931,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl,041384,17,direct_cumulus,['fentanyl'],['4337'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+HYDROmorphone (D 2mg/1mL 1mL SYR,004103,17,ingredient_candidate,['hydromorphone'],['3423'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+LeVETiracetam,044633,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2% (Glyd 6mL SYR,038861,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetroNIDAZ 500mg/100mL 100mL BAG,009588,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 100mg/100mL 100mL Bag,051279,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 100mg/100mL 100mL Bag,003780,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Mirtazapine 15mg TAB,046450,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prochlorperazine 10mg VIAL,003837,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prochlorperazine 10mg VIAL,067700,17,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atorvastatin,029967,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BuPROPion (Sustained R 100mg TAB,046239,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CARVedilol,028109,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME,,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CloNIDine,000346,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clonazepam,004561,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CloniDINE,000346,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dextrose 50% 25gm/50mL 50mL SYR,001989,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Donnatol (Elixir),070181,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Furosemide,008205,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Furosemide 40mg/4mL 4mL VIAL,008205,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+QUEtiapine Fumarate,034188,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vitamin D 1000UNIT TAB,028465,16,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen IV,066887,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acyclovir 400mg TAB,016408,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amiodarone,000266,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cephalexin 250mg CAP,009042,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem Extended-Rel 120mg CAP,017205,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem Extended-Rel 120mg CAP,024536,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Divalproex (DELayed Release),004539,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HydrOXYzine,003728,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Labetalol 100mg TAB,005098,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nicotine Patch 14mg PTCH,016426,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazobactam Na,040819,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazobactam Na,021187,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pravastatin 40mg TAB,020741,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prochlorperazine Maleate,003846,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Quetiapine Fumarate,034188,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Torsemide,021408,15,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Apixaban,070414,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CARVedilol 6.25mg TAB,028109,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Carbonate 500mg TAB,001340,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Carbonate 500mg TAB,002689,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME,024095,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME,027470,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine,,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LamoTRIgine,017871,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxacin,029928,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 1% 20mL VIAL,003404,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pravastatin,020741,14,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Albuterol Inhaler,005037,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Albuterol Inhaler,028090,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME 2g/100mL 100mL BAG,,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin 250mg TAB,009509,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ClonazePAM 0.5mg TAB,004560,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FLUoxetine,046213,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+GlipiZIDE 5mg TAB,001777,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Flush 100 Unit / mL,071450,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Flush 100 Unit / mL,006532,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HydrALAZINE 25mg TAB,000286,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Isosorbide Mononitrate 30mg TAB,024488,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Labetalol,005097,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LamoTRIgine 25mg TAB,017872,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxacin,046770,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulfate,001417,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulfate,063340,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulfate,016546,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetRONIDAZOLE (Flagyl),009588,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam,070134,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NIFEdipine CR,012059,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Naloxone,004516,13,direct_cumulus,['naloxone'],['7242'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Oxybutynin 5mg TAB,004929,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oxycodone SR  (OxyconTIN),072862,13,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxycodone SR  (OxyconTIN),024504,13,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Simethicone,002821,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sucralfate 1gm TAB,002766,13,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ALPRAZolam 0.25mg TAB,003773,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Benzonatate 100mg CAP,004641,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BusPIRone,003782,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BusPIRone,027378,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BusPIRone 5mg TAB,003782,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BusPIRone 5mg TAB,027378,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Doxycycline Hyclate,009218,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Doxycycline Hyclate,009223,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Escitalopram Oxalate 10mg TAB,050712,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Esmolol,052014,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LORazepam,003757,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxacin,029927,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2% (Glydo),038861,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Oxide,001408,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,065977,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Mirtazapine,046450,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prochlorperazine Maleat 10mg TAB,003846,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Readi-Cat 2  (Barium S 450mL BTL,019661,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Readi-Cat 2  (Barium S 450mL BTL,077720,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Simvastatin,016579,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Warfarin,006561,12,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Rectal),004478,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin EC,016995,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromyc 500mg/250mL 250mL BAG,,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BuPROPion 100mg TAB,046237,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluconate,001356,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 250mg VIAL,009165,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cephalexin,009042,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cetirizine,017037,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DULoxetine,057892,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Esmolol 2000mg/100mL 100mL Bag,052014,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol,003977,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hepari 25000UNIT/250mL 250mL BAG,060301,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hepari 25000UNIT/250mL 250mL BAG,006522,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HydrALAZINE,000286,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LevETIRAcetam,044633,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,051554,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,006732,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoclopramide,005231,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Montelukast,038451,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Montelukast 10mg TAB,038451,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NORepinephri 8mg/250mL 250mL BAG,066419,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nicotine Patch 21mg PTCH,016427,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Olanzapine,027961,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE SR  (OxyCONTIN),072862,11,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTIN),024504,11,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Pantoprazole Sodium,047635,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pantoprazole Sodium,052194,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Promethazine 25mg TAB,003878,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Topiramate (Topamax),029837,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vitamin D,028465,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Warfarin,006562,11,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen w/Codeine 1TAB TAB,004165,10,keyword_candidate,['codeine'],['2670'],keyword_screening,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Apixaban 5mg TAB,070414,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME 2g VIAL,024095,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME 2g VIAL,027470,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Finasteride 5mg TAB,041440,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HydrOXYzine 25mg TAB,003728,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LamoTRIgine,017872,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Loratadine,018698,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Loratadine 10mg TAB,018698,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Meclizine,004731,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tartrate,025856,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tartrate,019808,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetroNIDAZOLE (Flagyl),009588,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam (Pharmacy Compounded),,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OLANZapine,027961,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oxcarbazepine,044336,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oxcarbazepine,027779,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE-Acetaminophen,004222,10,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Topiramate (Topamax) 25mg TAB,029837,10,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+AMOXicillin 250mg CAP,008995,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Liquid) 650mg CUP,023196,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Liquid) 650mg CUP,004481,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acetaminophen (Liquid) 650mg CUP,065758,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acyclovir,016408,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amlodipine,016925,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atorvastatin 10mg TAB,029967,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BuPROPion,046237,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone,009165,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ferrous Sulfate 325mg TAB,001645,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ferrous Sulfate 325mg TAB,011832,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Finasteride,041440,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fluticasone Propionate 110m INH*,021251,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Flush (10 Units/ 5mL SYR,060304,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HydrALAzine,000286,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Isosorbide Mononitrate (Extended,024488,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone So 125mg VIAL,051555,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone So 125mg VIAL,065978,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone So 125mg VIAL,006730,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 100mg/100mL 100mL Bag,,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OLANZapine 10mg VIAL,050386,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phenazopyridine 100mg TAB,009477,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rosuvastatin Calcium 20mg TAB,051785,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sucralfate,002766,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vecuronium Bromide 10mg VIAL,008398,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Warfarin,006560,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+risperiDONE 1mg TAB,021154,9,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ALPRAZolam,003773,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+AmLODIPine 2.5mg TAB,016925,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin (Buffered),027896,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin (Buffered),004335,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromycin,031452,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bisacodyl,002947,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DULoxetine DR,057892,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem,016424,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Enoxaparin Sodium,027993,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Famotidine,021732,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Flush 100 Unit / 5mL SYR,006532,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Flush 100 Unit / 5mL SYR,071450,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine,003566,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lithium Carbonate,004001,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulfate (Latex Free),063340,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Methocarbamol,004654,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,006730,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,051555,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,065978,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nicotine Patch,016426,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nicotine Polacrilex 2mg GUM,004930,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglycerin SL 0.4mg BTL,000475,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacilli 4.5g/100mL 100mL Bag,,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Promethazine,003866,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Promethazine,003870,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Quetiapine Fumarate,034187,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Thiamine,002446,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Valsartan 40mg TAB,050805,8,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ALPRAZolam,003775,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ampicillin-Su 3g/100mL 100mL BAG,,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ampicillin-Sulbactam,,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Apixaban,067642,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+BuPROPion (Sustained Release),046239,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Sore Throat Lo 1LOZ LOZ,067735,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Sore Throat Lo 1LOZ LOZ,058921,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Sore Throat Lo 1LOZ LOZ,028283,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Citalopram,046203,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clindamycin,013053,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clindamycin Phosphate,009344,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Colchicine,008334,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem 30mg TAB,000574,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+GlyBURIDE,001775,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Insulin Human 70/30,016311,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LaMOTrigine,017871,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Oxide 400mg TAB,001408,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPHENIDATE (Ritali 10mg TAB,054678,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPHENIDATE (Ritali 10mg TAB,004026,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetroNIDAZOLE (Flagyl),009223,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetroNIDAZOLE (Flagyl),009592,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine Sulfate,070025,7,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Morphine Sulfate,004068,7,direct_cumulus,['morphine'],"['30236', '7052']",direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Mycophenolate Mofetil,032599,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglycerin,015361,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglycerin,064586,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pantoprazole Sodium 40mg VIAL,052194,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pantoprazole Sodium 40mg VIAL,047635,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phenazopyridine,009477,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phenytoin Sodium Extended,004521,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazob premix,,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prochlorperazine,067700,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prochlorperazine,003837,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sterile Water 20mL VIAL,001167,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Thiamine 100mg/1mL 2mL VIAL,002446,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Warfarin 2.5mg TAB,006560,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Warfarin 5mg TAB,006562,7,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+AMOXicillin,008995,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Albuterol Inhaler INH,028090,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Albuterol Inhaler INH,005037,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amoxicillin-Clavulanic Acid,024668,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Buprenorphine 8mg TAB,029313,6,ingredient_candidate,['buprenorphine'],['1819'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Calcium Glucon 1g/10mL 10mL VIAL,001356,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cetirizine 10mg TAB,017037,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DICYCLOMine,004918,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diazepam,078712,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Digoxin 0.125mg TAB,000018,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem 25mg/5mL 5mL VIAL,016424,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Emtricitabine-Tenofovir 200-300mg,057883,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FLUoxetine 10mg CAP,046213,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl Patch,015881,6,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Heparin So 5000UNIT/1mL 1mL VIAL,006549,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine 200mg/20mL 20mL Vial,003565,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LOPERamide,002842,6,direct_cumulus,[],['6468'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Levofloxacin 500mg TAB,029928,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+"Lidocaine 1%/Epi 1::100,000",003388,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2% (Uro 5mL UJET,003407,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2% (Uro 5mL UJET,038861,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine Sulfate (Oral Soln.),004087,6,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Neutra-Phos 1PKT PKT,016905,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Neutra-Phos 1PKT PKT,063337,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OLANZapine,050386,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Olanzapine,050386,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE SR  (OxyCONTI 20mg TAB,072864,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTI 20mg TAB,024505,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTI 40mg TAB,072866,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTI 40mg TAB,024506,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTIN),072864,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTIN),024505,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxycodone-Acetaminophen Elixir,004221,6,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxymetazoline 0.05%,008039,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PARoxetine,046223,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PARoxetine 20mg TAB,046223,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+"Piperacilli 4,5g/100mL 100mL Bag",,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prazosin,000291,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propranolol 10mg TAB,005123,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Raltegravir,063231,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rivaroxaban,068119,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sterile Water 10mL VIAL,001167,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TraZODONE,046241,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ZIPRASidone 20mg CAP,047563,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+risperiDONE 0.5mg TAB,042923,6,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ARIpiprazole 10mg TAB,,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+AmLODIPine,016925,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amiodarone 200mg TAB,000266,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amitriptyline,046046,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Azithromycin (in NS),,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluconate,063951,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluconate,066576,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin 1g/50mL 50mL BAG,051880,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin 1g/50mL 50mL BAG,009059,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin 1g/50mL 50mL BAG,009061,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeftriaXONE,009165,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DICYCLOMine 10mg CAP,004918,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Emtricitabine-Tenofovir 1TAB TAB,057883,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Enalapril Maleate,000387,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl Citr 100mcg/2mL 2mL AMP,041384,5,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Citr 100mcg/2mL 2mL AMP,041385,5,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Patch,015882,5,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+HydrALAZINE,000283,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Isosorbide Dinitrate 10mg TAB,000507,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levothyroxine Sodium 88mcg TAB,015523,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam 2mg/1mL 1mL SYR,078733,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam 2mg/1mL 1mL SYR,003753,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam 2mg/1mL 1mL SYR,003755,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Meclizine 12.5mg TAB,004731,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 2mg/2mL 2mL Vial,070134,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 2mg/2mL 2mL Vial,003779,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NIFEdipine CR 30mg TAB,012059,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Naloxone,004510,5,direct_cumulus,['naloxone'],['7242'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Neutra-Phos,063337,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Neutra-Phos,016905,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OSELTAMIvir 75mg CAP,043706,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Olanzapine (Disintegrating Table,045190,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE SR  (OxyconTI 10mg TAB,024504,5,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyconTI 10mg TAB,072862,5,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Penicillin V Potassium,008879,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazobactam Na  (RX Compound),,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol,066228,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol 200mg/20mL 20mL VIAL,066228,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propofol 200mg/20mL 20mL VIAL,016796,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ramelteon,059509,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Simvastatin 40mg TAB,016579,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sodium Polystyrene Sulfonate,001195,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Zolpidem Tartrate 5mg TAB,019187,5,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Alprazolam,003775,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amitriptyline 25mg TAB,046046,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Apixaban 2.5mg TAB,067642,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bisacodyl (Rectal),002944,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bisacodyl 5mg TAB,002947,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluco 2g/100mL 100mL BAG,066576,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluco 2g/100mL 100mL BAG,001356,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluco 2g/100mL 100mL BAG,063951,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin in Dextrose (iso-os),075120,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone,009164,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefTRIAXone 2gm VIAL,009164,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DULoxetine 20mg DR CAP,057891,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Digoxin,000018,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Doxycycline Hyclate 100mg CAP,009218,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Doxycycline Hyclate 100mg CAP,009223,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Enoxaparin Sodium 60mg SYR,027993,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Etomidate,030871,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Etomidate,003563,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Famotidine 20mg/50mL 50mL BAG,021732,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Gastroview (Diatrizoate Meglumine & Sodium),008270,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Gentamicin (Premix),009291,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+HydrALAzine,000283,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine 30mg/3mL 3mL SYR,,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Labetalol 100mg/20mL 20mL VIAL,005097,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxacin 250mg TAB,029927,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 2%/Epi 1::100 20mL VIAL,003389,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 2%/Epi 1::100 20mL VIAL,003390,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lithium Carbonate,004000,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetRONIDAZOLE (Flagyl),009223,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetRONIDAZOLE (Flagyl),009592,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Methocarbamol 500mg TAB,004654,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sod 40mg VIAL,006732,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sod 40mg VIAL,051554,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sod 40mg VIAL,065977,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPREDNISolone Sodium Succ,006724,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 5mg/1mL 1mL Vial,003779,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam 5mg/1mL 1mL Vial,003780,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Milk Of Magnesia,003026,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Octreotide Acetate,053978,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Octreotide Acetate,006585,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phenytoin Sodium Exten 100mg CAP,004521,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride,045309,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride,045308,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium Chloride,015362,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pravastatin 10mg TAB,016366,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rosuvastatin Calcium,052944,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rosuvastatin Calcium,051785,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Topiramate (Topamax) 100mg TAB,026170,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ZIPRASidone,047563,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+risperiDONE,021154,4,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ALPRAZolam 1mg TAB,003775,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ARIpiprazole,,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Adenosine,013630,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amitriptyline,046043,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amoxicillin-Clavulanic 875mg TAB,024668,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Artificial Tears 15mL DBTL,007936,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Benztropine Mesylate 1mg TAB,004590,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bisacodyl (Rectal) 10mg SUPP,002944,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CAPTopril,000380,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CarBAMazepine 200mg TAB,004558,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Menthol),058921,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Menthol),067735,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Menthol),028283,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ChlorproMAZINE 25mg TAB,003799,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clindamycin,009339,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clindamycin 600mg BAG,013053,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clobazam,017026,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clonazepam,004560,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clopidogrel,063544,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Colchicine 0.6mg TAB,008334,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DiCYCLOmine,004918,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Diltiazem Extended-Release,021282,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dolutegravir,071322,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Doxazosin,015586,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FLUoxetine,046214,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl (Pharmac 2.5mg 50mL Bag,,3,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Ipratropium Bromide HFA,059081,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ipratropium Bromide HFA,000175,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Isosorbide Dinitrate,000507,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine,003565,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine 20mg/2mL 2mL SYR,,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine 500mg/5mL 5mL Vial,003566,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LACOsamide 50mg TAB,064432,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LOPERamide 2mg CAP,002842,3,gsn_candidate,['loperamide'],"['6468', '978006']",gsn_linked_candidate,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+LaMOTrigine,017872,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxac 750mg/150mL 150mL BAG,046770,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 2%,003405,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2%,045574,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine Jelly 2%,003407,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Citrate,003025,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Citrate 300mL BTL,003025,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulf 2gm/50mL 50mL BAG,001417,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Magnesium Sulf 2gm/50mL 50mL BAG,016546,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPHENIDATE (Ritalin),054678,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPHENIDATE (Ritalin),004026,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPHENIDATE SR (Rit 20mg TAB,004029,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Milk Of Magnesia 30mL CUP,003026,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine Sulfate 4mg/1mL 1mL SYR,004072,3,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Morphine Sulfate 4mg/1mL 1mL SYR,070024,3,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Mycophenolate Mofetil 500mg TAB,032599,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Naloxone 0.04mg/1mL 10mL KIT,004516,3,ingredient_candidate,['naloxone'],['7242'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+NiCARdipine 40mg/200mL 200mL BAG,064612,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NiCARdipine 40mg/200mL 200mL BAG,064611,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nicotine Polacrilex,004930,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OLANZapine (Disintegrating Table,045190,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE Liquid 5mg/5mL 5mL CUP,004224,3,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxycoDONE Liquid,004224,3,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxymetazoline 0.05% 15mL SPBL,008039,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PHENObarbital,027611,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pantoprazole Sodium (For Dilution),047635,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Paroxetine,046223,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Perphenazine 8mg TAB,003833,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phosphorus,001711,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phytonadione,002301,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phytonadione,002305,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phytonadione 10mg/1mL 1mL AMP,002301,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazobactam Na***,021187,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazobactam Na***,040819,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Simethicone 80mg TAB,002821,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TiCAGRELOR,066950,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Topiramate (Topamax),026170,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vitamin D (25 mcg),028465,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Zonisamide 100mg CAP,045100,3,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ADDerall XR,048702,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ADDerall XR 20mg CAP,048702,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ARIpiprazole 5mg TAB,052898,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Adenosine 6mg/2mL 2mL VIAL,013630,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Alteplase,016922,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amlodipine 5mg TAB,016926,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amphetamine-Dextroamphet 5mg TAB,050428,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amphetamine-Dextroamphet 5mg TAB,004999,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin (Buffered) 325mg TAB,004335,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Aspirin (Buffered) 325mg TAB,027896,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atropine Sulfa 1mg/10mL 10mL SYR,004817,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Atropine Sulfate,004817,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bupivacaine 0.25%,003358,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bupivacaine 0.25%,052187,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bupivacaine 0.25%,052193,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Bupivacaine 0.25%,052194,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Buprenorphine 2mg TAB,029312,2,ingredient_candidate,['buprenorphine'],['1819'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Buprenorphine-Nalox F 1FILM FILM,066636,2,ingredient_candidate,['buprenorphine'],['1819'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Buprenorphine-Naloxone (8mg-2mg),051641,2,ingredient_candidate,"['buprenorphine', 'naloxone']","['1819', '7242']",ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Calcium Chloride,001349,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin,009061,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin,051880,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin,009059,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CeFAZolin 1g VIAL,009065,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefazoLIN,051880,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefazoLIN,009059,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefazoLIN,009061,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CefePIME (Min 2g/100mL 100mL BAG,,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cefoxitin,015945,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ChlordiazePOXDE 5mg CAP,003736,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ChlordiazePOXIDE 25mg CAP,003735,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ChlorproMAZINE,003799,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DULoxetine,057891,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+DiCLOXacillin,008983,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Doxazosin,015584,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Dronabinol 10mg CAP,004693,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Droperidol,003964,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Emtricitabine-Tenofovir alafen (Descovy),075812,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl Patch,015883,2,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Patch 50mcg/h PTC,015881,2,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fluconazole,022141,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fluconazole 150mg TAB,022141,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fluorescein 0.5%-Proparacaine 0.25%,048624,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+FoLIC Acid,002362,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Gastroview (Diatrizoate 30mL BTL,008270,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Glucagon,041660,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Glucagon,041661,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Glucagon,066517,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol 5mg TAB,003977,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Insulin Human NPH,001740,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ketamine (Pharm 20mg/2mL 2mL SYR,,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LACOsamide,064432,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxacin,029929,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 1% P.F.,003404,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 1% P.F.,060675,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 1% P.F. 30mL VIAL,003404,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 1% P.F. 30mL VIAL,060675,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 2% 20mL VIAL,003405,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lithium Carbonate 300mg CAP,004001,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Methadone (Dispersible 40mg TAB,023767,2,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone (Dispersible Tablet),023767,2,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone 5mg TAB,004242,2,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+MethylPHENIDATE (Ritalin 5mg TAB,004028,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MethylPHENIDATE (Ritalin),004028,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tart 5mg/5mL 5mL VIAL,019808,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Metoprolol Tart 5mg/5mL 5mL VIAL,025856,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetroNIDAZOLE (Flagyl) 500mg TAB,009223,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetroNIDAZOLE (Flagyl) 500mg TAB,009592,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Morphine SR (MS Contin) 30mg TAB,004096,2,ingredient_candidate,['morphine'],['7052'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Nitroglyce 100mg/250mL 250mL BTL,015361,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglyce 100mg/250mL 250mL BTL,064586,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglycerin SL,000474,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Norepinephrine,028633,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Norepinephrine,004939,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OSELTAMIvir,043706,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oseltamivir,043706,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OxyCODONE SR  (OxyCONTIN),072866,2,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyCONTIN),024506,2,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyconTIN),072866,2,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+OxyCODONE SR  (OxyconTIN),024506,2,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxycodone SR (OxyconTIN),072866,2,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Oxycodone SR (OxyconTIN),024506,2,ingredient_candidate,['oxycodone'],['7804'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+PHENObarbital 130mg/1mL 1mL Vial,003580,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PHENYLEPHrine,005068,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PHENYLEPHrine,005066,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Penicillin G Benzathine,043349,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Penicillin V Potassium 250mg TAB,008879,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phenylephrine,005068,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phytonadione 5mg TAB,002305,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Piperacillin-Tazob (Mini Bag +),,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Potassium C 20mEq/50mL 50mL IVPB,045309,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Prazosin 1mg CAP,000291,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Promethazine,003878,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Promethazine 25mg/1mL 1mL AMP,003866,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Promethazine 25mg/1mL 1mL AMP,003870,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pseudoephedrine 30mg TAB,005089,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rivaroxaban 20mg TAB,068119,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rocuronium,021727,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Succinylcholine,,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Succinylcholine 20mg/1mL 5mL SYR,,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-Diphtheria Tox (DECAVAC),063696,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Tetanus-Diphtheria Tox (DECAVAC),046288,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ZIPRASidone 20mg VIAL,050102,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+risperiDONE,042923,2,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ADDerall XR 5mg CAP,050428,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Acamprosate,025600,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Adderall,050428,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Adderall,004999,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Adderall 5mg TAB,050428,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Adderall 5mg TAB,004999,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Amitriptyline 10mg TAB,046043,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Artificial Tears,007936,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Benztropine Mesylate,065420,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Benztropine Mesylate,004588,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Benztropine Mesylate,004590,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Buprenorphine-Naloxone 1TAB TAB,051641,1,ingredient_candidate,"['buprenorphine', 'naloxone']","['1819', '7242']",ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+CAPTopril 25mg TAB,000380,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Chlori 1gm/10mL 10mL SYR,001349,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Calcium Gluconate (Premix),079278,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+CarBAMazepine,004558,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Sore Throat Lozenge),067735,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Sore Throat Lozenge),028283,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Cepacol (Sore Throat Lozenge),058921,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Charcoal Aqueous (Activated),057764,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Charcoal Aqueous (Activated),002565,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Charcoal Aqueous (Activated),002564,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+ChlorproMAZINE 50mg/2mL 2mL AMP,003788,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin 0.3% Oph 2.5mL BTL,015861,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Ciprofloxacin 0.3% Ophth Soln,015861,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Clindamycin 150mg CAP,009339,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Codeine,004186,1,keyword_candidate,['codeine'],['2670'],keyword_screening,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Doxazosin 4mg TAB,015586,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+EPINEPHrin 0.3mg/0.3mL 0.3mL PEN,016879,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+EPINEPHrine (for dil 2mg/2mL 2mL,004931,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+EPINEPHrine (for dil 2mg/2mL 2mL,062006,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+EPINEPHrine Auto Injector,016879,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Enalapril Maleate 5mg TAB,000387,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Erythromycin 0.5% Ophth 1g TUBE,007948,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Etomidate 20mg/10mL 10mL INJ,030871,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Etomidate 20mg/10mL 10mL INJ,003563,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Etomidate 20mg/10mL 10mL VIAL,030871,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Etomidate 20mg/10mL 10mL VIAL,003563,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Fentanyl Patch,015880,1,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Patch 100mcg/h PTC,015883,1,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Patch 25mcg/h PTC,015880,1,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Patch 75mcg/h PTC,015881,1,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Fentanyl Patch 75mcg/h PTC,015882,1,ingredient_candidate,['fentanyl'],['4337'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Furosemide 100mg/10mL 10mL VIAL,008205,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+GlyBURIDE 5mg TAB,001775,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+GuaiFENesin 10mL CUP,022210,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+GuaiFENesin 10mL CUP,000759,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Haloperidol,003973,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Sodium (NS),069570,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Heparin Sodium (NS),069699,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrocortisone Na Succinate,006696,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrocortisone Na Succinate,051558,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Hydrocortisone Na Succinate,066110,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Kcentra,070978,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LACOsamide,064435,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LACOsamide 200mg TAB,064435,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LeVETiracetam 500mg TAB,044633,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+LevoFLOXacin,029928,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levofloxac 500mg/100mL 100mL BAG,029929,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levonorgestrel 1.5mg Tab,058193,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Levonorgestrel 1.5mg Tab,043899,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine (Bri 100mg/5mL 5mL SYR,060679,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine (Bri 100mg/5mL 5mL SYR,000253,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+"Lidocaine 1%/Epi 1:100,000",003388,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 1%/Epi 1::100 20mL Vial,003388,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 100mg/5mL 5mL SYR,000253,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lidocaine 100mg/5mL 5mL SYR,060679,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+"Lidocaine 2%/Epi 1::100,000",003390,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+"Lidocaine 2%/Epi 1::100,000",003389,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lopinavir-Ritonavir,059972,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Lorazepam 1mg TAB,003758,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+MetRONIDAZOLE (Flagyl),009591,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Methadone (Concentrated Oral),004237,1,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone (Concentrated Oral),004239,1,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone Oral 10mg/5mL 5mL SYR,004237,1,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone Oral 10mg/5mL 5mL SYR,004238,1,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone Oral Liquid,004237,1,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+Methadone Oral Liquid,004238,1,ingredient_candidate,['methadone'],['6813'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+MetroNIDAZOLE (Flagyl),009591,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Midazolam,070132,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Mineral Oil,014317,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Mineral Oil,002997,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Misoprostol 200mcg TAB,002767,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NIFEdipine (Extended Release),012059,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Naloxone,004514,1,direct_cumulus,['naloxone'],['7242'],direct_name_match,1,confirmed_cumulus_ingredient_or_name,1,direct_terminology_name
+Naloxone 2mg/2mL 2mL SYR,004514,1,ingredient_candidate,['naloxone'],['7242'],ingredient_name_match,1,confirmed_cumulus_ingredient_or_name,1,ingredient_level
+NiCARdipine IV,064612,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NiCARdipine IV,064611,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NiCARdipine IV,064353,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+NiCARdipine IV,021600,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nicotine Lozenge 2mg LOZ,,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroglycerin Ointment  2%,000464,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroprusside Sodium,019652,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Nitroprusside Sodium ( 50mg VIAL,019652,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OXcarbazepine,044336,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+OXcarbazepine,027779,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Oxazepam,003769,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PHENObarbital 65mg/1mL 1mL Vial,003581,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PHENYLEPHrine (QuVa),074949,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PNEUMOcoccal  23 Vla p-Sac Vac,048548,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Phosphorus 250mg TAB,001711,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pravastatin,016366,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+PrednisoLONE Acetate 1% Ophth. S,007894,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Propranolol,005123,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Pseudoephedrine,005089,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+RISperidone,021154,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rabies Vaccine,036447,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rabies Vaccine,009651,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rabies Vaccine,063833,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Raltegravir 400mg TAB,063231,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Risperidone,021154,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Rocuronium 100mg/10mL 10mL Vial,021727,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sodium Bicarbonate 8.4% (Nephron),001185,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sodium Polyst 15gm/60mL 60mL BTL,001195,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sterile Water,001167,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Sumatriptan 6mg/0.5mL 0.5mL VIAL,019193,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Temazepam 15mg CAP,003689,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+TiCAGRELOR 90mg TAB,066950,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Trihexyphenidyl,004581,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+Vecuronium Bromide,008398,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+risperiDONE,042922,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only
+risperiDONE 0.25mg TAB,042922,1,unflagged,[],[],residual_name_screening,0,name_screened_nonopioid,0,name_screening_only

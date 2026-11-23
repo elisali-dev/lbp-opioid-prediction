@@ -4,7 +4,7 @@
 **Study Design:** Retrospective observational study with predictive machine learning  
 **Dataset:** MIMIC-IV-ED v2.2, with linked MIMIC-IV data if required for age estimation  
 **Unit of Analysis:** Emergency department encounter (`stay_id`)  
-**Status:** Research design finalized in principle; cohort eligibility and opioid outcome require final validation
+**Status:** P1–P4 completed; opioid outcome construction in progress.
 
 ---
 
@@ -230,18 +230,30 @@ A binary label will indicate whether at least one qualifying opioid medication d
 
 The outcome pipeline will:
 
-1. Identify candidate opioid medication names in Pyxis.
-2. Create and review a reproducible opioid medication mapping.
-3. Apply the ED encounter time-window definition.
-4. Aggregate qualifying events to `stay_id`.
-5. Generate one binary outcome per encounter.
-6. Validate outcome prevalence and selected medication records.
+1. Extract and inventory medication names and available identifiers from Pyxis.
+2. Map Pyxis medications to a frozen version of the Cumulus Opioid Value Set (Wasz et al., 2026) and review uncertain mappings.
+3. Apply the prespecified ED encounter time-window definition.
+4. Aggregate qualifying medication records to `stay_id`.
+5. Generate one binary outcome per eligible encounter.
+6. Validate outcome prevalence, medication composition, and data integrity.
+
+**Medication Classification Standard**
+
+Opioid-related medications will be identified using the published Cumulus Opioid Value Set (Wasz et al., 2026), an externally developed and validated RxNorm-based medication terminology reference.
+
+A fixed snapshot of the publicly available value set will be preserved with source and version information to support reproducibility.
+
+Pyxis medication names and available GSN identifiers will be matched using a focused, auditable terminology-mapping workflow. RxNorm terminology services will be used when necessary to resolve uncertain mappings.
+
+The study will not develop an independent clinical opioid classification system or perform comprehensive normalization of all Pyxis medications. Ambiguous and potentially missed opioid-related records will receive targeted review, and unresolved mappings will be assessed for their potential impact on encounter-level outcomes.
 
 ### 7.3 Outcome Interpretation
 
-The outcome measures documented dispensing rather than verified medication administration, discharge prescriptions, patient consumption, or treatment appropriateness.
+The outcome represents documented dispensing of Cumulus-defined opioid-related medications, not confirmed medication administration, patient consumption, discharge prescribing, or treatment appropriateness.
 
-The absence of a qualifying record will be interpreted as no *observed* opioid dispensing event in the available source, not definitive evidence that no opioid treatment occurred.
+An outcome value of zero indicates no observed qualifying dispensing event in the available Pyxis data, rather than definitive evidence that no opioid treatment occurred.
+
+Because the Cumulus value set encompasses a broad range of opioid-related medications, the outcome should not be interpreted exclusively as opioid analgesic treatment for low back pain. The distribution of matched medications will be examined during outcome validation, with particular attention to medications used for opioid use disorder and opioid antagonism.
 
 ## 8. Predictive Modeling Methodology
 
@@ -297,7 +309,6 @@ Coefficient-based interpretations will not be treated as causal effects. Formal 
 
 ### 8.4 Primary Experiments
 
-### 8.4 Primary Experiments
 
 | ID | Cohort | Features | Model |
 |---|---|---|---|
@@ -535,5 +546,6 @@ These extensions would require separate feasibility assessment, additional data 
 7. Johnson, A. E. W., et al. (2023). *MIMIC-IV-ED, version 2.2.* PhysioNet. https://physionet.org/content/mimic-iv-ed/2.2/
 8. Collins, G. S., et al. (2024). *TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods.* BMJ, 385, e078378. https://doi.org/10.1136/bmj-2023-078378
 9. *PROBAST+AI: An updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods.* (2025). BMJ, 388, e082505. https://doi.org/10.1136/bmj-2024-082505
+10. Wasz, M., et al. (2026). Development and validation of a near-comprehensive RxNorm valueset of opioid medications. JAMIA Open. https://doi.org/10.1093/jamiaopen/ooag107
 
 *Reference list is preliminary; full author, journal, and formatting details should be checked before final ACM submission.*
